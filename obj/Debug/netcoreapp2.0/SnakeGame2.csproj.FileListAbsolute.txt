@@ -1,0 +1,15 @@
+D:\SWE20001 Development Project 1\Week 9\Code\SnakeGame2\bin\Debug\netcoreapp2.0\SnakeGame2.deps.json
+D:\SWE20001 Development Project 1\Week 9\Code\SnakeGame2\bin\Debug\netcoreapp2.0\SnakeGame2.runtimeconfig.json
+D:\SWE20001 Development Project 1\Week 9\Code\SnakeGame2\bin\Debug\netcoreapp2.0\SnakeGame2.runtimeconfig.dev.json
+D:\SWE20001 Development Project 1\Week 9\Code\SnakeGame2\bin\Debug\netcoreapp2.0\SnakeGame2.dll
+D:\SWE20001 Development Project 1\Week 9\Code\SnakeGame2\bin\Debug\netcoreapp2.0\SnakeGame2.pdb
+D:\SWE20001 Development Project 1\Week 9\Code\SnakeGame2\obj\Debug\netcoreapp2.0\SnakeGame2.csprojAssemblyReference.cache
+D:\SWE20001 Development Project 1\Week 9\Code\SnakeGame2\obj\Debug\netcoreapp2.0\SnakeGame2.csproj.CoreCompileInputs.cache
+D:\SWE20001 Development Project 1\Week 9\Code\SnakeGame2\obj\Debug\netcoreapp2.0\SnakeGame2.AssemblyInfoInputs.cache
+D:\SWE20001 Development Project 1\Week 9\Code\SnakeGame2\obj\Debug\netcoreapp2.0\SnakeGame2.AssemblyInfo.cs
+D:\SWE20001 Development Project 1\Week 9\Code\SnakeGame2\obj\Debug\netcoreapp2.0\SnakeGame2.dll
+D:\SWE20001 Development Project 1\Week 9\Code\SnakeGame2\obj\Debug\netcoreapp2.0\SnakeGame2.pdb
+D:\SWE20001 Development Project 1\Week 9\Code\SnakeGame2\obj\Debug\netcoreapp2.0\SnakeGame2.genruntimeconfig.cache
+D:\SWE20001 Development Project 1\Week 9\Code\SnakeGame2\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+D:\SWE20001 Development Project 1\Week 9\Code\SnakeGame2\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+D:\SWE20001 Development Project 1\Week 9\Code\SnakeGame2\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
